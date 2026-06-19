@@ -1,0 +1,20 @@
+{
+  "dataset_name": "reddit_cybersecurity_hehe_streams",
+  "source_platform": "Reddit",
+  "subreddit": "r/cybersecurity",
+  "thread_id": "1tp7mcv",
+  "original_url": "https://www.reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json",
+  "collection_method": "downloaded Reddit JSON as PDF snapshot, then extracted \"body\" fields",
+  "extraction_unit": "Reddit comment body field",
+  "excluded_fields": [
+    "selftext",
+    "body_html",
+    "deleted/removed/empty bodies if present"
+  ],
+  "expected_body_count": 193,
+  "annotation_format": "Thresh-ready JSON",
+  "grouping_method": "193 numbered body entries grouped into 40 approximately character-balanced hits, split into 4 files of 10 hits",
+  "ethical_note": "pilot/internal research annotation dataset; review Reddit terms and lab policy before public redistribution of raw comment text",
+  "created_by": "Bob Yan",
+  "project_context": "cybersecurity jargon/slang/domain-knowledge annotation inspired by MedReadMe-style human understanding tasks"
+}

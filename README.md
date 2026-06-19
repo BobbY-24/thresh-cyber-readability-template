@@ -4,11 +4,13 @@ Public template files for a Thresh annotation interface.
 
 Annotators can open the shared Thresh link and upload their own JSON annotation file.
 
-## Cybersecurity Reddit Dataset
+## Cybersecurity Reddit Thresh Annotation Pilot
 
-The `data/reddit_cybersecurity_hehe_streams/` folder contains four Thresh-ready Reddit annotation batches from an r/cybersecurity thread about internet piracy, hacking, CFAA, platform abuse, and HeheStreams.
+This repository includes a pilot Thresh annotation dataset built from a Reddit r/cybersecurity thread. The dataset contains 193 numbered Reddit comment body entries grouped into 40 balanced annotation hits and split into four JSON batches. It is intended for internal/pilot research on cybersecurity jargon, slang, technical terminology, and domain-specific comprehension.
 
-The source Reddit body entries were numbered [1] through [193], grouped into 40 balanced annotation hits by approximate character count, and split into four JSON files with 10 hits each. Each row includes `id`, `context`, `source`, and `metadata`.
+The dataset lives in `data/reddit_cybersecurity_hehe_streams/`, with provenance documentation and a validation script at `scripts/validate_reddit_annotation_batches.py`.
+
+Important: this repository contains raw Reddit comment text. Public redistribution should be reviewed with the advisor, lab policy, Reddit terms, and applicable research ethics expectations before broader release.
 
 Expected JSON shape:
 

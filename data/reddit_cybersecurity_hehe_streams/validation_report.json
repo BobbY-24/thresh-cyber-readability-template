@@ -1,0 +1,39 @@
+{
+  "dataset": "reddit_cybersecurity_hehe_streams",
+  "valid": true,
+  "expected_thread_id": "1tp7mcv",
+  "expected_total_hits": 40,
+  "actual_total_hits": 40,
+  "expected_hits_per_file": 10,
+  "file_summaries": [
+    {
+      "file": "reddit_body_part_1_10_hits.json",
+      "hit_count": 10,
+      "valid_json": true
+    },
+    {
+      "file": "reddit_body_part_2_10_hits.json",
+      "hit_count": 10,
+      "valid_json": true
+    },
+    {
+      "file": "reddit_body_part_3_10_hits.json",
+      "hit_count": 10,
+      "valid_json": true
+    },
+    {
+      "file": "reddit_body_part_4_10_hits.json",
+      "hit_count": 10,
+      "valid_json": true
+    }
+  ],
+  "expected_sentence_number_min": 1,
+  "expected_sentence_number_max": 193,
+  "actual_unique_sentence_count": 193,
+  "actual_sentence_number_min": 1,
+  "actual_sentence_number_max": 193,
+  "missing_sentence_numbers": [],
+  "duplicate_sentence_numbers": [],
+  "errors": [],
+  "warnings": []
+}
