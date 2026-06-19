@@ -1,0 +1,278 @@
+[
+  {
+    "id": "hit-11",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 11 of 40\nSentence numbers: 42-44",
+    "source": "[42] Do you have a felony on your record now? If so, how hard was it to get a job?\n\n[43] The money goes to the feds. There's some stuff behind the scenes that determines which individual party is receiving it.\n\nUnfortunately—for me—my data, or my users data, wasn't used in this calculation: There was no data available.\n\nI have a payment plan setup right now. I'm not sure how it'll work long-term. I sure as hell can't own anything though.\n\n[44] Two part question:\n\n1) Who do you owe the money to? The content owners, the govt, both?\n\n\\- I’m assuming they calculated it based on average and peak viewership on the site. There’s no way they can actually expect you to pay that but they probably will garnish wages etc.\n\n2) Does that mean every dollar you make is automatically given to the debt collector &amp; you’re literally never able to spend your own money?",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 11,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        42,
+        43,
+        44
+      ],
+      "sentence_range": "42-44",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo7za2y",
+        "reddit-1tp7mcv-comment-oo7c6vz",
+        "reddit-1tp7mcv-comment-oo7ahjt"
+      ],
+      "group_size": 3,
+      "character_count": 864
+    }
+  },
+  {
+    "id": "hit-12",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 12 of 40\nSentence numbers: 45-53",
+    "source": "[45] Having a felony conviction doesn't prevent running for office!\n\n[46] Well, you kind of have to find some big grift like creating a memecoin in your name or selling branded shit. Politics might be a good angle.\n\n[47] if it comes down to be-able-to i should be in an okay-enough position.\n\n[48] Will you ever be able to pay that back? I imagine you'd need to be making a fair bit money to catch up to 100k a year\n\n[49] Well, yes, I do have a job. It doesn't pay *that* well, though. The math is, indeed, wild: $100k in interest alone every year.\n\n[50] Is it even possible to pay that off?\n\n[51] And 4.5% interest.\n\n[52] You owe $3 million?\n\n[53] yeah i was writing it in sublime bc I hate reddit's editor",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 12,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "sentence_range": "45-53",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo8emp0",
+        "reddit-1tp7mcv-comment-oo8eibl",
+        "reddit-1tp7mcv-comment-oo9ofa7",
+        "reddit-1tp7mcv-comment-oo84ai3",
+        "reddit-1tp7mcv-comment-oo7chgz",
+        "reddit-1tp7mcv-comment-oo7b6dw",
+        "reddit-1tp7mcv-comment-oo78270",
+        "reddit-1tp7mcv-comment-oo762do",
+        "reddit-1tp7mcv-comment-oo6r9nz"
+      ],
+      "group_size": 9,
+      "character_count": 707
+    }
+  },
+  {
+    "id": "hit-13",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 13 of 40\nSentence numbers: 54-58",
+    "source": "[54] i had double-pasted it. i have 100 different sublime tabs—all of which are impossible to keep track of—at any one time. [https://imgur.com/a/y4FN4kM](https://imgur.com/a/y4FN4kM)\n\ni hate when products hijack things that could otherwise be a textarea and i'm too impatient with myself to just hit [old.reddit.com](http://old.reddit.com) for everything :(\n\n[55] Saw it 2min after he posted it\n\n[56] How did you determine it was copy/pasted? Somewhere else in the thread or a really fast response?\n\n[57] Copy pasted answer? Interesting.\n\n[58] I'm not sure if I'd consider speed being a good measure here. I think it's worth asking what the end goal is. If it's owing $3 million in debt, yeah, criminal-to-white-hat pipeline will beat traditional educational pipeline every time.\n\nBuried in what you asked is one of the things that I'm talking about at SLEUTHCON: it was never reported that I have a history of responsible disclosures.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 13,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "sentence_range": "54-58",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo76sa0",
+        "reddit-1tp7mcv-comment-oo6zyk5",
+        "reddit-1tp7mcv-comment-oo6yhug",
+        "reddit-1tp7mcv-comment-oo6oeoq",
+        "reddit-1tp7mcv-comment-oo6nkkz"
+      ],
+      "group_size": 5,
+      "character_count": 936
+    }
+  },
+  {
+    "id": "hit-14",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 14 of 40\nSentence numbers: 59-64",
+    "source": "[59] 😂😂😂\n\n[60] At least from what I see myself, sadly yes. Some companies would rush for then as an exit.\n\n[61] This is all I got from this post lol\n\n[62] So you’d agree the criminal to white hat pipeline is faster than the traditional educational pipeline?\n\n[63] Like anyone else does, no magic. Well-written SQL, proper caching, and not doing expensive shit in your HTTP thread. I've been pushing production ruby code for almost two decades now so none of it was new to me except using OpenResty to send request metadata back to my Rails app to analyze for my abuse layer.\n\nFor everyone that thinks Rails is slow because Twitter migrated off of it in 2012, it scales fine if you know what you're doing. Rails is mostly IO-bound. Rails also makes it painfully trivial to write god-awful applications because it allows for so much magic.\n\n[64] How did you manage to run such a large site on a simple VPS?",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 14,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "sentence_range": "59-64",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo6mdfd",
+        "reddit-1tp7mcv-comment-oo6mixp",
+        "reddit-1tp7mcv-comment-oo6o6bw",
+        "reddit-1tp7mcv-comment-oo6ls1n",
+        "reddit-1tp7mcv-comment-oo6p662",
+        "reddit-1tp7mcv-comment-oo6myng"
+      ],
+      "group_size": 6,
+      "character_count": 904
+    }
+  },
+  {
+    "id": "hit-15",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 15 of 40\nSentence numbers: 65-65",
+    "source": "[65] an actual great q. A few points that may be able to be rolled into some form of answer—I think the context is more interesting than just addressing your points.\n\nI had a startup at the time that was really on edge—alongside my actual, salaried job. I then had this thing that I used every day because I wanted to watch sports. Other people wanted to watch sports too. I had users. I had traffic. I had validation. It felt great.\n\nAt first, it was a free site without even a single ad. I had a donation link but I'd hardly call it solicited. It was only after it was taking up too much time that I slapped a paywall on it, thinking nobody would pay and that I could sail into my five minutes of nbastreams subreddit fame, and just continue watching sports and resume having a social life.\n\nIt was really that much of a hobby. I thought it was just a fad. But then people paid for it when I was just after validation itself. My mom was steering south, and I was like \"well fuck I can't just pull the rug—I got burned myself.\"\n\nI didn't put much thought into the illegal part. In retrospect I think that's because I saw it as a distraction-as-a-service more than a platform-as-a-service. If I shared an archive of the site's reddit and Twitter history, it's easy to discern how motivated I was by money: I wasn't.\n\nSome of it was certainly because I was bored and some would say smart. Painfully guilty of a propensity for the former.\n\nHad I set out to be deliberate in my choices and actually run the thing like I would have any other product that had product-market fit, I would have at least put a nanogram of thought into opsec.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 15,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        65
+      ],
+      "sentence_range": "65-65",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo7as91"
+      ],
+      "group_size": 1,
+      "character_count": 1634
+    }
+  },
+  {
+    "id": "hit-16",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 16 of 40\nSentence numbers: 66-68",
+    "source": "[66] I know you talked about how your initial Proof of Concept came about while trying to distract yourself from your mother's cancer (my condolences on her passing). But how much of that final \"leap\" into the knowingly illegal activity was \"I'm just really bored, and really smart\", \"screw you and your laws\", or \"I've deliberately set out from the beginning to do illegal things\"?\n\nI ask because I work with a lot of offensive cybersecurity professionals, all on the government side - kinda like the guys supporting the Profiler who caught you. Most of them take pride in how much they can follow the rules, so to speak.\n\n[67] He still working on you 🤔\n\n[68] This has nothing to do with pain points and everything to do with sports subscriptions being expensive.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 16,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        66,
+        67,
+        68
+      ],
+      "sentence_range": "66-68",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo75yf1",
+        "reddit-1tp7mcv-comment-oo6pez1",
+        "reddit-1tp7mcv-comment-oo9rdjo"
+      ],
+      "group_size": 3,
+      "character_count": 764
+    }
+  },
+  {
+    "id": "hit-17",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 17 of 40\nSentence numbers: 69-76",
+    "source": "[69] this i always find interesting: service providers are making money off the pain points, or ignore the pain points because they are still profit- positive, so screw the user.  then someone comes along and fixes that pain, that's it, that's all.  zero interest in profiting, really, just fixing sh\\*t.  suddenly, people are grateful, and flood the fix.  shocker!  typically bringing money with them.  surprise!  then the OG provider, too lazy or ignorant to fix the pain, bitches and moans into ears that only f\\*ck- you money can reach because money they would never have received because of the pain, they now feel is some imagined loss.  and now the dude is a criminal.  boggles my mind.  and its bullsh\\*t.  unless i'm grossly misunderstanding this...\n\n[70] Why then add in Canal+ then? It is a French language only service and it is very hard to sign up in basically any country that isn't francophone.\n\n[71] My userbase was overwhelmingly American. Regarding marketing: I never spent a minute thinking about marketing. It was never the goal to grow. It was just a byproduct of solving a pain people experienced.\n\n[72] Also I just noticed 2 of your services (BeIN and Canal+ Sports) were most popular in France, was this site particularly popular there and in the Maghreb and did you try to market there?\n\n[73] ngl i thought about ending my slideshow showing a POC of it the live stream embedded on a site that had the hehestreams logo on it— privately, and just for show.\n\n[74] livestream? uh oh lol\n\n[75] Yes indeed.\n\n...you can also live stream it.\n\n[76] Will your SLEUTHCON talk be recorded?",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 17,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "sentence_range": "69-76",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo8c9q7",
+        "reddit-1tp7mcv-comment-oo6xyxc",
+        "reddit-1tp7mcv-comment-oo6xfvr",
+        "reddit-1tp7mcv-comment-oo6wppp",
+        "reddit-1tp7mcv-comment-oo8g55i",
+        "reddit-1tp7mcv-comment-oo8e7m2",
+        "reddit-1tp7mcv-comment-oo71mis",
+        "reddit-1tp7mcv-comment-oo711wr"
+      ],
+      "group_size": 8,
+      "character_count": 1603
+    }
+  },
+  {
+    "id": "hit-18",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 18 of 40\nSentence numbers: 77-82",
+    "source": "[77] I’ll assume your FBI agent partner advised not addressing the first part :) But yeah Zelda is endlessly entertaining.\n\n[78] great question: rn im addicted to Zelda again. i'm leisurely bouncing around Tears of the Kingdom like a kid without adderall.\n\n[79] Do you resent that you went to jail solely to protect corporate profits and that the government acts as a private police force serving the rich, while they endlessly exploit, harm, and commit crimes against the people so they can consolidate endless wealth? Also, what’s your favourite video game?\n\n[80] Depends on the actual context. My site? The system? My FBI profiler bestie? My own narrative?\n\nI certainly have an affinity for what I built, as anyone would when they spend more than 5 years working on something 365.25 days a year.\n\n[81] would you call this a form of stockholm syndrome?\n\n[82] It would be a nice side effect to be able to use a platform for bettering things.\n\nSpeaking at large, I'd like to believe most people-who-end-up-as- cybercriminals have aptitude that's just misplaced. Society has done a great job stigmatizing these talents, so these individuals turn inwards.\n\nCorporations/entities/etc also aren't very friendly when approached—they treat everyone as a dog that's going to bite them. I'm really interested in bringing attention to those issues: there's talent here, use it, don't abuse it.\n\nFor me, I had a propensity for breaking open platforms. That means I can close them. Had an entity reached out to me and been like \"yo ur good at this come to the other side\" I would have done it in a heartbeat. It scratches the same itch.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 18,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "sentence_range": "77-82",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo864aj",
+        "reddit-1tp7mcv-comment-oo7p9j5",
+        "reddit-1tp7mcv-comment-oo7nxeg",
+        "reddit-1tp7mcv-comment-oo6q2z9",
+        "reddit-1tp7mcv-comment-oo6n0oj",
+        "reddit-1tp7mcv-comment-oo6z6ac"
+      ],
+      "group_size": 6,
+      "character_count": 1625
+    }
+  },
+  {
+    "id": "hit-19",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 19 of 40\nSentence numbers: 83-85",
+    "source": "[83] Do you think the person of being a cyber criminal will help or be a detriment to you moving forward. Specifically I know several former cyber criminals who've gone on to work for cybersecurity companies and done quite well for themselves. But they're far and few. Since there's not a lot of good examples how do you think you're past will impact your future in the employment world?\n\n[84] Heh ok.\n\nThanks for the answer.  Sounds like these “interesting problems” haven’t been patched ;)\n\n[85] Some of what you asked is public; Ernesto and Andy have the most accurate reporting over at TorrentFreak [https://torrentfreak.com/hehestreams-iptv-admin- sentenced-to-three-years-in-prison-3m-restitution-230317/] (https://torrentfreak.com/hehestreams-iptv-admin-sentenced-to-three-years-in-prison-3m- restitution-230317/)\n\nCorrect on the CDN bit: I was not proxying the streams whatsoever. My users used the same CDNs with the same hostnames as the users of the actual platforms that backed the streams. All I had for hardware was a meager $75 VPS and a Cloudflare free plan for DNS and that's it.\n\nAnswering the other two questions you asked would be as inappropriate as they are interesting problems to solve. :(",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 19,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        83,
+        84,
+        85
+      ],
+      "sentence_range": "83-85",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo6v80y",
+        "reddit-1tp7mcv-comment-oo83d8k",
+        "reddit-1tp7mcv-comment-oo77zz1"
+      ],
+      "group_size": 3,
+      "character_count": 1213
+    }
+  },
+  {
+    "id": "hit-20",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 20 of 40\nSentence numbers: 86-89",
+    "source": "[86] So…. I’m sure there are bits you can’t go into.\n\nBut you weren’t proxying these streams, you were sending your users directly to the legit stream CDN urls right?\n\nDid you find bugs in the DRM or way such links were generated or something that allowed you to do that?\n\nLike how come the services didn’t see thousands of simultaneous streams from your account and lock it?\n\n[87] yeah the way they calculate stuff like this is absolute horse shit.\n\n[88] I'm not saying this as a direct response to what Andy and Erneseto reported, but I will say that there are studies about how amounts are calculated in the federal system which I encourage everyone to read.\n\n[89] The Minnesota man pleaded guilty to one count of ‘Computer Fraud – Unauthorized Access to Obtain Information From a Protected Computer’ and to the forfeiture of $500,000, an amount said to represent proceeds traceable to the commission of the offense.\n\n[https://torrentfreak.com/hehestreams-iptv-admin-sentenced-to-three-years-in- prison-3m-restitution-230317/](https://torrentfreak.com/hehestreams-iptv-admin-sentenced-to- three-years-in-prison-3m-restitution-230317/)",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 20,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        86,
+        87,
+        88,
+        89
+      ],
+      "sentence_range": "86-89",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo76cla",
+        "reddit-1tp7mcv-comment-oo71odg",
+        "reddit-1tp7mcv-comment-oo6xuxb",
+        "reddit-1tp7mcv-comment-oo6wjq6"
+      ],
+      "group_size": 4,
+      "character_count": 1137
+    }
+  }
+]

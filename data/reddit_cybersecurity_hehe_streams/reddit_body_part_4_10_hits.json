@@ -1,0 +1,288 @@
+[
+  {
+    "id": "hit-31",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 31 of 40\nSentence numbers: 141-141",
+    "source": "[141] (FBI hasn't given a chance; my former profiler is in private industry now and is doing some academia stuff on the side)\n\nPrison was boring. In the fed system, there are self-segregated groups. For work detail, groups will predictably pick their own people to go make 12c an hour. It's not like \"life or death\" instead it's like a popularity contest.\n\nI wrote a book about engineering titles and how promotions are broke in the engineering world. I wrote it on commissary paper when the compound was locked down for some stupid reason or another (about 25% of the time). I'll probably never publish it.\n\nI read a lot of books. I have a list of them at the bottom of this page: [https://prison.josh.mn/prison](https://prison.josh.mn/prison) my favorites were anything by Robert Sapolsky.\n\nMy days were this:\n\n1. Get up at 6am because I have to 2. Make my bed, because I have to 3. Call my partner for 1 minute between 7AM and 715AM (we get 300 minutes/month) and turbo through a \"conversation\" 4. Go walk the track until 1030AM 5. Wait to be called for lunch—can be anywhere from 1040AM to 1130AM depending on who's running Pretty-print 6/19/26, 1:59 PM reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json https://www.reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json 212/291\n\ncompound that day 6. Come back, wait until 12PM, call my partner again for 1 minute 7. ??? do something, if not just a lap around the compound 8. Go outside and play basketball poorly until 330PM, when we're required to be in our cells so the cops can make sure nobody has escaped to the surrounding cornfield, despite having towers on every part of the property, where they'd have to go through 4 layers of fence and barbwire 9. Out again around 415-430PM, call partner—again, 1 minute 10. Dinner/supper served at 5-6, depending on mood of guards 11. Do something until doors close at 9PM\n\nI wouldn't call it pleasant. I wouldn't call it unpleasant either, though. Mostly very boring. Sometimes sad—seeing other people and how they are treated by the system, and poorly prepared for what happens when they are released.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 31,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        141
+      ],
+      "sentence_range": "141-141",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo7f8kv"
+      ],
+      "group_size": 1,
+      "character_count": 2195
+    }
+  },
+  {
+    "id": "hit-32",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 32 of 40\nSentence numbers: 142-146",
+    "source": "[142] Hi. I'm glad your skillset was seen as valuable and that you were given another chance by the FBI. Was your stint in federal prison traumatic, unpleasant, or just boring? Were you working while serving time, were you able to read books, exercise? What was it like, if you care to describe it?\n\n[143] great q.\n\nThere's usually an opportunity to use whatever-is- drifting-into-legally-gray-experimentation prowess for good (see: career), if one chooses to use them that way.\n\nThis is harder than it sounds: approaching BigCo saying \"hey so I found this huge issue where a signee can change how the loan documents get processed, but you'll never see it because your reports aren't pulling the correct numbers. actually I found like 50 instances of similar things. I'm good at this, can I come work for you?\" will likely terrify them.\n\nBringing that up the chain to the suits will get an insta-referral to legal.\n\nThe itches that get scratched are largely the same.\n\n[144] What’s the biggest thing you would warn technically talented young people about before they drift into legally gray experimentation?\n\n[145] Appreciate the answers in this thread. I worry a lot about America's recidivism rate and it seems the prison system, unless you're wealthy, will hurt you in incongruent ways. Glad you're outside now and I hope your future is white hat and bright.\n\n[146] A few. I didn't realize how boring it was.\n\nIn other answers in this thread I mentioned how the federal system doesn't set people up for success, but are more than happy to give archaic sentences while preaching how important it is to lock up criminals. They champion nothing about the rehabilitation numbers, which should be the number to watch.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 32,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        142,
+        143,
+        144,
+        145,
+        146
+      ],
+      "sentence_range": "142-146",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo7axav",
+        "reddit-1tp7mcv-comment-oo8ar9a",
+        "reddit-1tp7mcv-comment-oo89vgs",
+        "reddit-1tp7mcv-comment-oo9csw2",
+        "reddit-1tp7mcv-comment-oo8znai"
+      ],
+      "group_size": 5,
+      "character_count": 1715
+    }
+  },
+  {
+    "id": "hit-33",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 33 of 40\nSentence numbers: 147-150",
+    "source": "[147] During your time in prison did you develop any prison-reform beliefs?? Anything you experienced, or heard other inmates experience, you wish wasn't a thing ?\n\n[148] exactly.  and this is a real problem: we've unleashed an insanely sophisticated, deranged, autonomous, UNKNOWN tool into the hands of, what is essentially, children.  i worked with cybersec and i am geniunely gobsmacked at what an absolute neophyte can leverage within an hour of focussed tinkering. so where do those legal lines lay? (oof)  how the hell do we determine skill anymore; which is the prime driver for determining culpability?  if i just have to *verbally* prompt my machine to build a stack, engage some APIs, and hand me the keys *just to see if it can*, this raises big concerns and bigger problems.  curious up-and-comers or career-shifters are kinda being lined up for a firing line they don't know exists.  worriesome in a big way.\n\n[149] 100% with you. It's only going to be made Pretty-print 6/19/26, 1:59 PM reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json https://www.reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json 225/291\n\nworse with AI lowering the threshold for abuse.\n\nI'm sure that wire fraud alone has gone up 10000x since OpenClaw—not charges, just acts that could be considered \"offenses.\"\n\n[150] my experience is that 75% of the time, the 'offender' had either no idea what they were doing crossed some stupid line, OR there was no law to cover what they did, because it's still a big frontier, but they messed with someone's horizon of potential and now has to be made an example of.  regardless of the scenario, being punished for thinking differently than the mainstream has GOT to stop being punished.  we're killing or driving our best talent into oblivion.  from what i read here, that's what you're advocating and i'm all for it.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 33,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        147,
+        148,
+        149,
+        150
+      ],
+      "sentence_range": "147-150",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo8n862",
+        "reddit-1tp7mcv-comment-oo8qe7h",
+        "reddit-1tp7mcv-comment-oo8indk",
+        "reddit-1tp7mcv-comment-oo8h5px"
+      ],
+      "group_size": 4,
+      "character_count": 1940
+    }
+  },
+  {
+    "id": "hit-34",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 34 of 40\nSentence numbers: 151-151",
+    "source": "[151] I have opinions! This is the basis of what Tim and I are talking about.\n\nRight now we send too many people to prison. People should go to prison who we are afraid of and who are a threat to society.\n\nOnce people are in prison, we need to be able to invest in them so that when they're out, they are more likely to be a contributing member of society, if they need it. Education is a huge role here. We shouldn't have these extended stays where we completely remove them from what the world is becoming. That makes re- entry painfully difficult, and that fails everyone. We shouldn't be setting people up for failure.\n\nWhen someone breaks a law involving computers in a non-violent way (I say it this way because this doesn't just pertain to criminal acts), what I'd love to see is this: when applicable (I'd argue the majority of the time) these talents used instead of shamed. Corporations would rather step on someone's chest than use their leverage to better leverage themselves. They don't.\n\nInstead, a bunch of suits get together and attempt to squash people like a bug. These entities should reach out first, and instead of addressing people like subjects, address them like humans.\n\nThere's certainly talent that exists, and that talent has value. If that talent reaches out, it's so often ignored. That's a changeable problem, but there needs to be a huge marketing push towards normalizing and destigmatizing these individuals.\n\nI would like to believe this can flow upstream to the criminal justice system.\n\nDoes this pertain to everyone? No, it's hardly a blanket statement. But I think there are more instances where this can be a thing than not.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 34,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        151
+      ],
+      "sentence_range": "151-151",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo7xl75"
+      ],
+      "group_size": 1,
+      "character_count": 1664
+    }
+  },
+  {
+    "id": "hit-35",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 35 of 40\nSentence numbers: 152-156",
+    "source": "[152] Would love to hear your thoughts on criminal justice reform both in general and specifically in cases of hacking and computer crime.\n\n[153] [https://i.imgur.com/qZP0sxg.png] (https://i.imgur.com/qZP0sxg.png)\n\n[154] You should honestly consider going on The Tosh Show. Your story has the same weird internet-era rise/fall/self-awareness energy as Daniel Tosh interviewing Billy McFarland after Fyre Festival — except yours actually intersects with cybersecurity, profiling, platform abuse, and federal investigations instead of just influencer catastrophe tourism.\n\n[155] Not a great answer: once the feds kicked in my door and pointed guns at me.\n\nI was three months removed from the civil suit. I thought everything was over and done with.\n\n[156] At what point did you realize your operation had crossed from hobbyist tinkering into something the FBI would classify as organized cybercrime?",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 35,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        152,
+        153,
+        154,
+        155,
+        156
+      ],
+      "sentence_range": "152-156",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo7utym",
+        "reddit-1tp7mcv-comment-oo8co4d",
+        "reddit-1tp7mcv-comment-oo8bqnk",
+        "reddit-1tp7mcv-comment-oo892o8",
+        "reddit-1tp7mcv-comment-oo87y74"
+      ],
+      "group_size": 5,
+      "character_count": 897
+    }
+  },
+  {
+    "id": "hit-36",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 36 of 40\nSentence numbers: 157-159",
+    "source": "[157] Thank you for sharing your experience with us. What a crazy journey it must have been. Hope you’re in a better spot now.\n\n[158] Sounds delicious! Any idea how much baking powder is in a packet?\n\n[159] I'm a man of my word. Here's my carrot cake recipe Pretty-print 6/19/26, 1:59 PM reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json https://www.reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json 240/291\n\n:D\n\nIngredients for the dough:\n\n250g spelt flour, 250g carrots (grated), 1pkg tartar (Weinstein) baking powder, 1 tea spoon cinnamon, 1 tea spoon salt, 3 eggs, 100g brown sugar, 100g walnuts (grinded/hacked), 90g olive oil, 1 tea spoon vanillin extract\n\nIngredients for the topping:\n\n200g cream cheese, 80g Margarine (No idea what this is in English, it's sunflower oil based replacement for butter), 1 tea spoon salt, 1 tea spoon vanillin extract, 100g powder sugar (strained)\n\nPut together the flour, the hacked walnuts, baking powder, cinnamon and the grated carrots into a bowl and put the salt on it while stirring.\n\nPut the sugar, vanillin and eggs into a smaller bowl, and stirr it until it's fluffy/creamy. Then put the olive oil and the cream into the big dough bowl, and stirr it together.\n\nPut a little fat on to the baking form. Preheat the baking oven to 180 degrees Celcius. Put the dough into the baking form and bake it for around 45 minutes on the lowest platform. Do the knitting needle test before you get it out.\n\nWhile the oven is baking the dough, prepare the topping. Put the cream cheese, margarine, salt, and vanillin together and stirr it. While stirring, put the powder sugar evenly into the mixture. Put it into the fridge afterwards.\n\nAfter the cake is out of the oven, let it cool down. Then put the topping on it, otherwise it'll melt too easily.\n\nAlternative variant that I sometimes do for lactose intolerant guests is a topping with white chocolate instead of the fresh cheese, which fits quite well onto the carrot cake :)",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 36,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        157,
+        158,
+        159
+      ],
+      "sentence_range": "157-159",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo7elqw",
+        "reddit-1tp7mcv-comment-ooclwnb",
+        "reddit-1tp7mcv-comment-oo8m15t"
+      ],
+      "group_size": 3,
+      "character_count": 2062
+    }
+  },
+  {
+    "id": "hit-37",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 37 of 40\nSentence numbers: 160-161",
+    "source": "[160] ok so forreal u need to find some good chicken thighs. chicken breasts are garbage. fresh oranges are key. fresh limes are preferred—that shit in a bottle has so much other crap in it that it's basically citric acid (which is cool but no flavor).\n\nmince some adobo peppers, a habanero pepper (seeded if you're weird), and a handful of garlic cloves. hit it with a healthy heap of of chipotle chili powder, some achiote paste, oregano (bonus if you grind it yourself), cumin (don't bother). a lil cinnamon, some brown sugar, kosher salt (diamond kosher or bust), and black pepper. blend it until it looks dead. put some aside to brush on later, marinade the chicken for like 12 hours.\n\nget a cast iron skillet ripping hot (use medium-scale heat, since medium in a cast iron is hot on anything else). since the thighs are fatty you don't need oil. put them down, wait 12 seconds (idk why 12 but that number came to mind) before bringing down the temp to something more reasonable: like the low setting (which will translate to a medium in the cast iron)\n\nuse the best tortillas you can find.\n\n[161] Recipes: Will trade my known-to-be-famous carrotcake recipe for a really good chicken taco recipe",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 37,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        160,
+        161
+      ],
+      "sentence_range": "160-161",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo7vqgr",
+        "reddit-1tp7mcv-comment-oo7mrye"
+      ],
+      "group_size": 2,
+      "character_count": 1200
+    }
+  },
+  {
+    "id": "hit-38",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 38 of 40\nSentence numbers: 162-169",
+    "source": "[162] lots of trial and error. lots and lots of it.\n\neventually i had scripts setup to test every possible theory i could against any one site/platform/api. this included the obvious stuff like user agents, and request timings, but also things like fucking with tls handshakes.\n\nwhen i rolled an abuse layer on my own site, i had a good idea of \"ok, so what request patterns would look out of place.\" for me, i used my own user's data (sampled) to generate a time-series which i weighted the scores my algorithms generated.\n\n[163] how did you figure out sites abuse detection protocols? just trial &amp; error?\n\n[164] i'm still unsure what which criminal act the CFAA was applied to, so i just use whatever one is more marketable at any given time.\n\ni look at it like this: Uber gave the finger to every municipality in the US; the whole electric scooter industry did too. a taxi driver will get their medallion suspended for the most bizarre reason.\n\nit's all disappointing.\n\nif it sums up my thoughts: i look at Anna's Archive and the whole Spotify ordeal and just shake my head in confusion.\n\n[165] so your case was cfaa on, i suppose the cdn access (innovative) but it is Pretty-print 6/19/26, 1:59 PM reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json https://www.reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json 249/291\n\nreally about copyright and \"intellectual property\". these days all the big LLM AI vendor companies have openly blown off the entire idea of IP as their systems regurgitate whatever they scraped from countless copyrighted works. as someone who did a lot of hard time for apparently an infringement project, how do you feel about IP and what's going on now with the AI companies\n\n[166] Meanwhile Leon Black is facing zero charges and Ghislaine Maxwell is days from (probably) being pardoned.\n\n[167] this is by far the best comment i've seen about HeheStreams ever.\n\nif u want a hoodie lmk\n\n[168] RIP Michael Jackson you would've loved HeHeStreams :(\n\n[169] What misconceptions about CFAA investigations do people in tech communities commonly have?",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 38,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169
+      ],
+      "sentence_range": "162-169",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo8dqcp",
+        "reddit-1tp7mcv-comment-oo8cyhl",
+        "reddit-1tp7mcv-comment-oo9g7jg",
+        "reddit-1tp7mcv-comment-oo9dp9z",
+        "reddit-1tp7mcv-comment-ooa8a6p",
+        "reddit-1tp7mcv-comment-oogdnj7",
+        "reddit-1tp7mcv-comment-oob69x9",
+        "reddit-1tp7mcv-comment-oo8fp10"
+      ],
+      "group_size": 8,
+      "character_count": 2168
+    }
+  },
+  {
+    "id": "hit-39",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 39 of 40\nSentence numbers: 170-179",
+    "source": "[170] Very fascinating. Looking forward to this!\n\n[171] About that street taco marinade?\n\n[172] There’s a grid that the federal government uses to determine your sentence, “sentencing guidelines.”\n\nThe reported amount did play a major role. There are flaws that make calculating amounts inaccurate in every case.\n\n[173] How much of your punishment do you believe was because of collecting money? I imagine it wouldn't make a huge difference but maybe it does?\n\n[174] I have most of my customer support emails, I can respond with some in the morning. The most memorable one was when a potential customer asked for the manager, saying I wasn’t equipped to handle her mental health.\n\n[175] Do you have any funny stories from during the time running the website? Also the moment that you towards the end and realized you were in serious trouble?\n\n[176] I am not forbidden from doing either. I'm back as a software engineer—thank god, I don't know what else I'd do—and have a little side project that's generating absolutely no revenue (and that's not being modest).\n\n[177] Are you banned from starting another company in the software development space or for working for companies that would be willing to hire you, seems like you optimized the shit out of that single VPS.\n\n[178] It’s crazy that they were harder on this dude than the people that are actually breaking the law every day. Every company that Wall Street is doing something illegal every second of the day\n\n[179] This is a great AMA — the CDN abuse angle is genuinely clever engineering.\n\nI'm coming from an aerospace background and have been working through CTFs and TryHackMe to break into cybersecurity. The cat-and-mouse abuse detection you built actually reminds me a lot of systems engineering thinking — modeling adversarial behavior to harden your own system.\n\nGiven your experience sitting on both sides (running ops AND getting profiled by the FBI), what would you say is the most underrated skill for someone trying to break into red teaming? I keep hearing \"think like an attacker\" but your story suggests the real edge is understanding detection pipelines as well as the attacker does.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 39,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179
+      ],
+      "sentence_range": "170-179",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo9ip0y",
+        "reddit-1tp7mcv-comment-oo9mwr8",
+        "reddit-1tp7mcv-comment-ooavean",
+        "reddit-1tp7mcv-comment-ooaqd7j",
+        "reddit-1tp7mcv-comment-ooav28i",
+        "reddit-1tp7mcv-comment-ooat8b7",
+        "reddit-1tp7mcv-comment-oocqvy5",
+        "reddit-1tp7mcv-comment-oocl2ds",
+        "reddit-1tp7mcv-comment-ooclqig",
+        "reddit-1tp7mcv-comment-ooie4i3"
+      ],
+      "group_size": 10,
+      "character_count": 2159
+    }
+  },
+  {
+    "id": "hit-40",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 40 of 40\nSentence numbers: 180-193",
+    "source": "[180] i don't have an answer because that would require me to have done literally anything to try to not get caught to begin with.\n\n[181] If you were to do something differently to not get caught, what would you have done and why?\n\n[182] it's the fucking knicks.\n\nfor the record, i hate how okc plays, sga is quite possibly the most overrated player in the history of sports.\n\ni'm not a wemby stan but i'm really happy for Mitch Johnson who got put into quite possibly the shittiest position and best position in basketball at the same time—taking over for Pop, while Pop feeds input to their GM.\n\n[183] Do you think my Knicks can pull it out the bag and win the Finals?\n\n[184] Damn, that was cruel. PDFiles roam free and a little piracy/fraud gets you hard time. I really hate this timeline.\n\n[185] The BOP has a points system that determines what security level you are. They aren't bound to this but they don't typically sway from it. I was within the bounds and criteria for going to camp, but I got \"population management\" slapped on me and shipped 300 miles from home when there's two options within 100 miles of me. They needed to fill beds at the new facility.\n\n[186] Why did you end up at FCI Thomson when short term feds usually get sent to a camp?\n\n[187] How was prison as  someone going to jail for internet piracy? Were there others or any interesting stories?\n\n[188] Just a software engineer with a small data company. Nothing has changed in that aspect. I was concerned that I may be disallowed from using a computer while on probation, but that wasn’t the case.\n\n[189] What do you do for work now? Do you make a living?\n\n[190] Happy to hear from another happy user 🥹\n\nI guess there must have been at least three of us: me, you, and the other user that outs themselves in this thread. :)\n\n[191] You ran one of the best streaming services legal or illegal hands down man saved me a bunch of money if there was a way to do it legally hehe would have been a giant what was the peak usercount?\n\n[192] Wait, you have an FBI agent assigned to you???\n\n[193] Kappa",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 40,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193
+      ],
+      "sentence_range": "180-193",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo8e2gj",
+        "reddit-1tp7mcv-comment-oo6rmb0",
+        "reddit-1tp7mcv-comment-oo73vo6",
+        "reddit-1tp7mcv-comment-oo72uvk",
+        "reddit-1tp7mcv-comment-oo9du6g",
+        "reddit-1tp7mcv-comment-oo8zav0",
+        "reddit-1tp7mcv-comment-oo8w2cg",
+        "reddit-1tp7mcv-comment-oo9jbn7",
+        "reddit-1tp7mcv-comment-ooa6via",
+        "reddit-1tp7mcv-comment-ooa4v8a",
+        "reddit-1tp7mcv-comment-ooa7qc2",
+        "reddit-1tp7mcv-comment-ooa7081",
+        "reddit-1tp7mcv-comment-oob01mg",
+        "reddit-1tp7mcv-comment-oobp4fo"
+      ],
+      "group_size": 14,
+      "character_count": 2071
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "hit-21",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 21 of 40\nSentence numbers: 90-95",
+    "source": "[90] More than $1.\n\n[91] well, what was your MRR at the peak of the operation?\n\n[92] that makes sense, filtering for people who'd vibe with you anyway saves everyone time down the line instead of pretending to be someone else for the interview and having it blow up later.\n\n[93] great q.\n\ni have a lot of personality and i don't have enough of a filter to try to give a fuck about it. the companies that i'd ever work for are okay enough with me being me. with that, the whole criminal thing can't possibly matter.\n\ni encourage all my fellow felons—and anyone with baggage—to responsibly disclose.\n\n[94] that's wild that the slideshow worked, but i guess it beats having people find out through google six months in and making it weird. did the company culture just happen to be that open-minded or did you specifically target places you thought would get it?\n\n[95] I've asked that same question and the answer was, \"you had a successful startup.\" The engineering complexity was a nice bonus.\n\nNot that I'd hide it anyway, but in software engineering we have curious people and everyone Googles everyone. On my first on-site at my current company I did a slideshow which was effectively, \"hi im josh. i have written a lot of ruby code. i also just got out of federal prison, here's the skinny\"\n\nIt was well-received.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 21,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "sentence_range": "90-95",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo6pkh4",
+        "reddit-1tp7mcv-comment-oo6n15x",
+        "reddit-1tp7mcv-comment-ooa4cvy",
+        "reddit-1tp7mcv-comment-oo9o3q4",
+        "reddit-1tp7mcv-comment-oo9mujy",
+        "reddit-1tp7mcv-comment-oo9csd5"
+      ],
+      "group_size": 6,
+      "character_count": 1316
+    }
+  },
+  {
+    "id": "hit-22",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 22 of 40\nSentence numbers: 96-101",
+    "source": "[96] that's actually smart, bypassing the initial screen entirely. did you find employers cared more about what you built technically or that you owned it publicly instead of hiding it?\n\n[97] It's an item on my resume.\n\nMy typical flow is (was):\n\n1. send resume via whatever ATS, 2. find decision maker (or someone close to them), 3. cold email with the premise of \"hey so I might get skipped over from whoever is screening because this is on my resume. I wanted to send you it personally and put a message to the pdf.\"\n\nI had 6 job offers within 2 weeks of prison.\n\n[98] curious how you're gonna explain the whole thing to future employers or if that's just not a concern anymore with the speaking gigs and all\n\n[99] Everyone using an agentic browser now is violating the CFAA\n\n[100] I couldn't agree more. The CFAA is wildly broad and outdated. Your \"crime\" or Aaron Swartz charges are so wildly different than say a ransomware actor or even DDOS.\n\nGod knows our current admin won't do anything, but I hope we see CFAA reform in our lifetime.\n\n[101] It's been explained to me that there are a lot of politics at the federal level. I will certainly agree with you that someone shouldn't get 10 years for bouncing EA offline for a few minutes. There's an underlying issue there, sure, but if you want to equate that person's sentence with someone who, idk, insert violent- crime-of-the-month here, it gets really weird.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 22,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        96,
+        97,
+        98,
+        99,
+        100,
+        101
+      ],
+      "sentence_range": "96-101",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo91eni",
+        "reddit-1tp7mcv-comment-oo8bjc1",
+        "reddit-1tp7mcv-comment-oo7u17c",
+        "reddit-1tp7mcv-comment-oo8fmd1",
+        "reddit-1tp7mcv-comment-oo8cplc",
+        "reddit-1tp7mcv-comment-oo6twk3"
+      ],
+      "group_size": 6,
+      "character_count": 1419
+    }
+  },
+  {
+    "id": "hit-23",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 23 of 40\nSentence numbers: 102-110",
+    "source": "[102] Completely understand. I have been a defender for the last 10 years on the forensics side in the consumer space that comes from a very rocky past.\n\nI feel like there is so much variation in how similar cyber cases are handled and it sometimes bothers me to see two people who did nearly the same thing get wildly different sentences. I don’t mean that as “give both the maximum” but more “why is this person sitting in a federal prison for hitting a gaming website offline” type of thing.\n\n[103] No. He had a job that he was to perform and an opinion he was to leave at the door.\n\nHe's aware of this AMA, maybe he'll chime in himself and provide his own opinion.\n\n[104] Do you have resentment towards the profiler or the system for having to serve time in prison for a virtually victimless non violent crime.\n\n[105] It helped that I was a premium site. But that's not to say that these anti-piracy \" \" companies don't know you exist.\n\nI'm really not sure. It always surprised me.\n\n[106] How were your DCMAs so low?\n\n[107] I can say that it wasn't considered \"bulletproof\" hosting. They had a large US presence, but it wasn't one of the providers typically used. I received fewer than 5 DMCAs over 5 years.\n\n[108] In what country did you rent the VPS?\n\n[109] it's ok. She kicked the can in late 2019, which is when the process of deciding to wind down the site took place.  I'm glad she didn't have to deal with me going to prison.\n\nFuck Monsanto.\n\n[110] Thanks for the answer, and sorry about your Mom",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 23,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "sentence_range": "102-110",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo6sry2",
+        "reddit-1tp7mcv-comment-oo6pjg1",
+        "reddit-1tp7mcv-comment-oo6n2gy",
+        "reddit-1tp7mcv-comment-oo6rxn5",
+        "reddit-1tp7mcv-comment-oo6qt3k",
+        "reddit-1tp7mcv-comment-oo6qfp8",
+        "reddit-1tp7mcv-comment-oo6ntqi",
+        "reddit-1tp7mcv-comment-oo6uism",
+        "reddit-1tp7mcv-comment-oo6tdqd"
+      ],
+      "group_size": 9,
+      "character_count": 1507
+    }
+  },
+  {
+    "id": "hit-24",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 24 of 40\nSentence numbers: 111-114",
+    "source": "[111] it was!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [https://web.archive.org/web/20160210015443/http://hehestreams.tk/ballstreams] (https://web.archive.org/web/20160210015443/http://hehestreams.tk/ballstreams)\n\nHAHA\n\n[112] I'm curious if it was ball streams. I loved that Pretty-print 6/19/26, 1:59 PM reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json https://www.reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json 171/291\n\nsite\n\n[113] I wanted to watch sports.\n\nA site I used to watch basketball from 2014-2016 pulled the rug. I posted a proof of concept on the then-popular nbastreams subreddit, hoping that someone would pick up the slack. I got a lot of validation from middle- aged white men on the internet—which works wonders—so I kept at it while I took care of my mom who was suffering from stage IV brain cancer because she used fucking weed killer in her garden. I named this proof of concept \"hehestreams\" because it was meant to be a joke, not a thing.\n\nIt served as a distraction.\n\nEventually it was taking up too much time. I wanted to focus on my other \"real\" startup so I slapped a paywall on it thinking I'd have an easy, clean breakup.\n\nHere I am.\n\n[114] Something I didn't see answered, but for you personally, can you comment on WHY you chose this particular business. Was there the thrill of seeing if you could, or did you have a larger purpose?\n\nObviously, there's money, but someone who is defrauding and defending against large and well-funded companies could easily be targeting easier prey.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 24,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "sentence_range": "111-114",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo7so76",
+        "reddit-1tp7mcv-comment-oo7sicy",
+        "reddit-1tp7mcv-comment-oo6r369",
+        "reddit-1tp7mcv-comment-oo6ofex"
+      ],
+      "group_size": 4,
+      "character_count": 1606
+    }
+  },
+  {
+    "id": "hit-25",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 25 of 40\nSentence numbers: 115-119",
+    "source": "[115] i don't have a way to compare it to state, but in my observation, boring. it operates like a shitty high school where everyone has an ego and nothing reasonable to say.\n\ni read a lot, i wrote a lot, i played a lot of basketball, i walked a lot. people eat, watch tv, and just try to pass the time.\n\nwhat's really sad is that people coming out are hardly prepared for success. i was fortunate in that i had a short amount of time and a highly marketable skill to come home to.\n\n[116] They're a viable tool in a fight. Steel-toe.\n\n[117] Why are they bringing boots to the shower?\n\n[118] definitely no. you're more likely to get shanked in the shower—but only at certain facilities with active yards. in that case, you have someone in your \"car\" (prison politics create their own groups) stand at the front of the shower.\n\nguys who are coming down from active yards to lesser security still bring their boots to the shower.\n\n[119] I'm not OP but I took street law class growing up and even took a field trip to the highest security prison in Massachusetts (Walpole Super Pretty-print 6/19/26, 1:59 PM reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json https://www.reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json 181/291\n\nMax/Cedar Junction) where we got to meet with the inmates:\n\nIts not very common at all in actual prison. Not only are most of the inmates not really looking to get more time or locked in solitary, even masturbating in your cell can be a sex crime if a guard sees it. It's that strict.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 25,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "sentence_range": "115-119",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo6sowm",
+        "reddit-1tp7mcv-comment-oo88net",
+        "reddit-1tp7mcv-comment-oo85nso",
+        "reddit-1tp7mcv-comment-oo6s8sy",
+        "reddit-1tp7mcv-comment-oo8m9wx"
+      ],
+      "group_size": 5,
+      "character_count": 1605
+    }
+  },
+  {
+    "id": "hit-26",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 26 of 40\nSentence numbers: 120-124",
+    "source": "[120] And is dropping the soap as big an issue as im led to believe it is?\n\n[121] What does federal prison look like?\n\n[122] The cops once pranked a hardcore drug dealer with a very interesting-looking sex offender inmate. Sent the new person into his cell and everything. Drug dealer was like \"what the fuck?\" and went to the cops and was flabbergasted.\n\nNever saw a fight worth remembering; nobody got any unwarranted touching.\n\n[123] Any fights, molestations, funny stories you want to talk about?\n\n[124] I had no growth strategy because I had no exit plan because I wasn't motivated to grow because I wasn't motivated to make money. I was very gainfully employed.\n\nPrison was just boring as fuck, man. It made me realize that we—humans—generally surround ourselves with people like ourselves. There are other classes of people who exist who are perfectly fine people—crime or otherwise.\n\n(Yes, there are monsters, but Robert Sapolsky's \"Determined\" really changed how I think about human behavior.) (everyone should Pretty-print 6/19/26, 1:59 PM reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json https://www.reddit.com/r/cybersecurity/comments/1tp7mcv/i_went_to_prison_for_internet_piracy_and_hacking.json 188/291\n\nread it)",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 26,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "sentence_range": "120-124",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo6r60a",
+        "reddit-1tp7mcv-comment-oo6q985",
+        "reddit-1tp7mcv-comment-oo89x4j",
+        "reddit-1tp7mcv-comment-oo87ymv",
+        "reddit-1tp7mcv-comment-oo6tb4x"
+      ],
+      "group_size": 5,
+      "character_count": 1275
+    }
+  },
+  {
+    "id": "hit-27",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 27 of 40\nSentence numbers: 125-129",
+    "source": "[125] [removed]\n\n[126] the tl;dr—\n\nme: hey i found another bug, here's what i got me: btw can i write about these on my blog them: What do you value the original bugs at? me: here's a link to a bug bounty calculator, because frankly i don't know. i think that number is ridiculous though because i only spent a few minutes finding these and writing these up. me: u awake?\n\nIf you isolate the thread to these emails, yeah, it looks really bad. I'm going to leave it at that out of respect for the system.\n\n[127] I gotta hear what this autistic bug report reply was, and how did it generate charges for extortion and interstate threats?\n\n[128] Your comments about regional availability and consumer friction made me think about FIFA and similar organizations. Once fans perceive an institution as corrupt, monopolistic, or primarily revenue-maximizing, the moral stigma around piracy weakens psychologically for a lot of people. Not saying that justifies it legally, but it seems like leagues often underestimate how much consumer frustration and loss of institutional legitimacy drive users toward piracy ecosystems.\n\n[129] And for the people in SEA, the answer becomes “fine, I live in Iceland now” courtesy of a VPN. Once consumers realize geography is basically software-enforced bureaucracy, regional licensing starts looking less like consumer protection and more like an inconvenience speedrun.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 27,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "sentence_range": "125-129",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo6q6sv",
+        "reddit-1tp7mcv-comment-oo7ber9",
+        "reddit-1tp7mcv-comment-oo78xu0",
+        "reddit-1tp7mcv-comment-oo94gp1",
+        "reddit-1tp7mcv-comment-oo8kmws"
+      ],
+      "group_size": 5,
+      "character_count": 1399
+    }
+  },
+  {
+    "id": "hit-28",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 28 of 40\nSentence numbers: 130-130",
+    "source": "[130] lol, what's the max character count here? /s\n\nShareholders are required for us to have nice things (mostly). That's fine. It's when entities can roll into a monopoly that things get bad for the consumer. I'll use Major League Lacrosse as a really bad example.\n\nThere's a MLL team for Anchorage: The Fishers. The Fishers have agreed to broadcast all their games with NewsCo Sports Alaska—a sports channel. Then comes cable provider Infinity, who carries the NewsCo Sports Alaska channel.\n\nInfinity goes to Fishers ownership. \"Hey we'll give you $100M to not let anyone in Alaska watch online.\" Ownership: \"ok bet\"\n\nWhat are Alaskans supposed to do? What's worse is that the Fishers ownership get all these tax breaks left and right in the name of \"we support small businesses and shit.\" Their owners may not even be in Alaska. They may be in fucking North Korea for all they care. Doesn't matter.\n\nNow Alaskans have few choices: let's pay $70/month to Infinity to watch two games a week for 24 weeks, or watch for free at the risk of minor inconvenience and availability for a given device.\n\n????\n\nThere are so many people who would rather buy into a reliable, legitimate service if it's available to them. Price comes second.\n\nThe anti- piracy companies/league/industry is similarly ignorant: There are all these studies that come out and all these blog posts about how piracy is so huge in Southeast Asia. I think it was Housemaid w/ that one light-haired person that this one article was talking about specifically.\n\nThey failed to mention that the film was not available on any service in that entire fucking region.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 28,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        130
+      ],
+      "sentence_range": "130-130",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo8fs29"
+      ],
+      "group_size": 1,
+      "character_count": 1625
+    }
+  },
+  {
+    "id": "hit-29",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 29 of 40\nSentence numbers: 131-132",
+    "source": "[131] Do you think media fragmentation and regional blackouts unintentionally incentivized piracy?\n\n[132] It changed over from the Administrative USP to a low-security joint after a bevy of lawsuits were lobbed their way. Many of the same guards stayed for the first few years, and not one bit of the interior setup changed to what's representative of your typical low-security facility.\n\nTo give an idea of the setup: It was originally designed to house maximum-security inmates for the state of Illinois. In 2012 it was proposed that Guantanamo Bay inmates be sent there.",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 29,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        131,
+        132
+      ],
+      "sentence_range": "131-132",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo8cy5n",
+        "reddit-1tp7mcv-comment-oo78pzm"
+      ],
+      "group_size": 2,
+      "character_count": 573
+    }
+  },
+  {
+    "id": "hit-30",
+    "context": "### r/cybersecurity\nThread: AMA about internet piracy, hacking, prosecution, and cybersecurity\nAnnotation hit: 30 of 40\nSentence numbers: 133-140",
+    "source": "[133] If this prison is primarily for violent and dangerous offenders, how did you end up there with “white collar” crimes?\n\n[134] FCI thomson huh, well you might have met my Ukrainian friend over there )) I personally believe in cases like yours, prison is overkill, should be only probation/house arrest (my opinion). Wish you the best!\n\n[135] So just use PPP then. I thought that is what you were supposed to do when expanding into a new country.\n\n[136] I never bothered to pen test my own site.\n\nThe piracy landscape will always be interesting as long as there isn't region-friendly pricing. The advent of piracy-as-a-service is also fascinating.\n\n[137] Did you use your hacking skills to help pentest your own website and do you agree that with most people now going to sites like YouTube piracy is becoming more irrelevant as content is available for free?\n\n[138] More like a 24/7 job. It was just me the entire time, bringing my laptop on dates. I've always been about building trust within communities and being available is one way to create trust. It was also a source of pride, however misplaced. It wasn't, though, something I ever relied on financially. Had it been I would have tried to grow it.\n\nI was gainfully employed throughout as a senior/staff engineer. I'm doing the same thing now—I had job offers days after leaving prison.\n\n[139] Was this your full time job? What are you doing for work now?\n\n[140] Thank you. I hope you publish your book!",
+    "metadata": {
+      "thread_id": "1tp7mcv",
+      "source_file": "reddit_body_193_thresh_ready.json",
+      "hit_index": 30,
+      "target_hit_count": 40,
+      "sentence_numbers": [
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "sentence_range": "133-140",
+      "original_ids": [
+        "reddit-1tp7mcv-comment-oo6vznk",
+        "reddit-1tp7mcv-comment-oo7eqci",
+        "reddit-1tp7mcv-comment-oo6rveg",
+        "reddit-1tp7mcv-comment-oo6rocd",
+        "reddit-1tp7mcv-comment-oo6mszw",
+        "reddit-1tp7mcv-comment-oo70yad",
+        "reddit-1tp7mcv-comment-oo6zpa2",
+        "reddit-1tp7mcv-comment-oo7hjt7"
+      ],
+      "group_size": 8,
+      "character_count": 1464
+    }
+  }
+]
