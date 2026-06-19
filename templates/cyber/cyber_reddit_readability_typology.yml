@@ -1,0 +1,102 @@
+# Thresh typology for span-level readability/jargon annotation in cybersecurity Reddit text.
+# This file follows the schema used by the local Thresh repository:
+# - top-level template metadata
+# - an "edits" list
+# - each edit enables span selection on source text via enable_input: true
+# - annotations use supported Thresh question types: custom radio options, binary, textbox, textarea
+
+template_name: cyber_reddit_readability
+template_label: Cybersecurity Reddit Readability/Jargon Annotation
+template_description: Paragraph-level span annotation for cybersecurity jargon, slang, legal terms, tools, platforms, and phrases requiring background knowledge.
+
+interface_text:
+  typology:
+    source_label: "Reddit paragraph/comment"
+    edits_unit_name: "span"
+
+# Paragraph/comment items can include a Markdown "context" field in the data file.
+# The source field is the selectable paragraph text.
+display:
+  - side-by-side
+  - disable-lines
+
+prepend_instructions: true
+instructions: |
+  Read one Reddit paragraph/comment at a time. Select any span that may make the paragraph harder to understand for a reader without cybersecurity, hacker-culture, internet-community, platform-specific, or legal background knowledge.
+
+  Select the shortest meaningful span. A span may be a word, acronym, tool/platform name, legal term, slang expression, or multiword phrase. You may annotate multiple spans in the same paragraph.
+
+  For each selected span, answer Difficulty Type, Difficulty Level, and the knowledge-category yes/no questions.
+
+edits:
+  # Main span annotation type. Multiple spans per paragraph are supported by adding
+  # multiple "readability_barrier" spans to the same item.
+  - name: readability_barrier
+    label: "Readability/Jargon Span"
+    color: "#2b6cb0"
+    icon: fa-highlighter
+    type: single_span
+    enable_input: true
+    enable_output: false
+    annotation:
+      - name: difficulty_type
+        label: "Difficulty Type"
+        question: "Span label 1: Difficulty Type"
+        options:
+          # Definition: Specialized cybersecurity term. Example: OPSEC
+          - name: technical_jargon
+            label: "technical_jargon"
+          # Definition: Informal insider slang used in cybersecurity/hacker/internet communities. Example: burner
+          - name: community_slang
+            label: "community_slang"
+          # Definition: Product, site, software, protocol, or platform name. Example: Tor
+          - name: tool_platform
+            label: "tool_platform"
+          # Definition: Law enforcement or legal terminology. Example: subpoena
+          - name: legal_law
+            label: "legal_law"
+          # Definition: Phrase that requires contextual background knowledge to understand. Example: got flagged
+          - name: implicit_knowledge
+            label: "implicit_knowledge"
+
+      - name: difficulty_level
+        label: "Difficulty Level"
+        question: "Span label 2: Difficulty Level"
+        options:
+          # Most general internet users can understand it.
+          - name: EASY
+            label: "EASY"
+          # Some technical, cybersecurity, or internet-culture knowledge is needed.
+          - name: MEDIUM
+            label: "MEDIUM"
+          # Requires specialized cybersecurity, hacker-culture, platform-specific, or legal knowledge.
+          - name: HARD
+            label: "HARD"
+
+      # Thresh custom option lists are single-choice radio groups. To support the requested
+      # multi-choice knowledge-category label without inventing unsupported fields,
+      # each option is represented as a separate binary yes/no question.
+      - name: background_GENERAL_INTERNET
+        label: "general_internet"
+        question: "general_internet - Definition: Basic internet literacy."
+        options: binary
+
+      - name: background_CYBERSECURITY
+        label: "cybersecurity"
+        question: "cybersecurity - Definition: Security concepts, attacks, defenses, or technical cyber knowledge."
+        options: binary
+
+      - name: background_HACKER_CULTURE
+        label: "hacker_culture"
+        question: "hacker_culture - Definition: Insider community knowledge from hacking, piracy, or security forums."
+        options: binary
+
+      - name: background_LEGAL
+        label: "legal"
+        question: "legal - Definition: Cyber law, criminal procedure, law enforcement, or prosecution knowledge."
+        options: binary
+
+      - name: background_PLATFORM_SPECIFIC
+        label: "platform_specific"
+        question: "platform_specific - Definition: Knowledge of specific tools, websites, apps, protocols, or online platforms."
+        options: binary
